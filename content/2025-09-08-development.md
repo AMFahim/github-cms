@@ -1,3 +1,9 @@
+---
+title: "development"
+date: 2025-09-08T02:29:54.368Z
+lastModified: 2025-09-08T02:29:54.368Z
+---
+
 # GitHub CMS
 
 A Next.js application for managing Markdown content stored in GitHub repositories. Users can fetch, create, edit, and publish Markdown content through a web interface.
